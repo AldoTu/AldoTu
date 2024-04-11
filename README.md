@@ -1,6 +1,6 @@
 <h3 align="left">Hello there, I'm Aldo 👋</h3>
 
-- 🌱 I’m currently learning **Angular & Data Science (you can always learn more 😀)**
+- 🌱 I’m currently learning **React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
